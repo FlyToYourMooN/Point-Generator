@@ -1,0 +1,13 @@
+{
+    "folder":"inter",
+    "language":"chinese",
+    "epochs":10000,
+    "batch_size":25,
+    "num_words":8149,
+    "embedding_dim":30,
+    "hidden_size":20,
+    "num_layers":1,
+    "max_output":50,
+    "max_content":500,
+    "lr":0.01,
+}
